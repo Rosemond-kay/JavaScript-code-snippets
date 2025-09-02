@@ -1,0 +1,14 @@
+let name = 'Rosemond';
+console.log(name + ' is a ' + typeof 'Rosemond');
+let age = 26;
+console.log(age + ' is a ' + typeof 26);
+let isStudent = false;
+console.log(isStudent + ' is a ' + typeof false);
+let address = 'Accra';
+console.log(address + ' is a ' + typeof 'Accra');
+let hobbies = ['reading', 'cooking', 'watching Kdrama'];
+console.log(hobbies + ' is a ' + typeof 'reading');
+let undefinedVariable;
+console.log(undefinedVariable + ' is a ' + typeof undefinedVariable);
+const nullVariable = null;
+console.log(nullVariable + ' is a ' + typeof null);
